@@ -18,16 +18,6 @@ Mobilná aplikácia v Kotline na simuláciu šikmého vrhu. Používateľ zadá 
 - Súhrn: doba letu, maximálna výška, dĺžka vrhu
 - Záložný lokálny výpočet pri nedostupnom serveri (zdroj dát je farebne označený: fialová = server, oranžová = lokálny výpočet)
 
-## Architektúra
-
-```
-┌──────────────────────┐   TCP/IP, port 8888   ┌──────────────────────┐
-│  Android klient      │ ────────────────────► │  Kotlin server       │
-│  (modul app)         │  rýchlosť, uhol       │  (modul Desktop)     │
-│                      │ ◄──────────────────── │  DesktopServer.kt    │
-└──────────────────────┘  body trajektórie     └──────────────────────┘
-```
-
 ### Komunikačný protokol
 
 Údaje sa prenášajú binárne cez `DataInputStream` / `DataOutputStream`:
