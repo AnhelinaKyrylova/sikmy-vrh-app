@@ -21,4 +21,4 @@ animáciu a graf.
 
 | Zadanie parametrov | Numerický výpis | Graf y(t) |
 |---|---|---|
-| ![Vstup](screenshots/screen1.png) | ![Výpis](screenshots/screen2.png) | ![Graf](screenshots/graf.png) |
+| ![Vstup](screenshots/Снимок экрана 2026-10-16 150642.png) | ![Výpis](screenshots/screen2.png) | ![Graf](screenshots/graf.png) |
