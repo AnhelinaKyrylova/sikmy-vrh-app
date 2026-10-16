@@ -21,4 +21,4 @@ animáciu a graf.
 
 | Zadanie parametrov | Numerický výpis | Graf y(t) | Animácia |
 |---|---|---|---|
-| <img src="screen2.png" width="190"> | <img src="screen3.png" width="200"> | <img src="screen4.png" width="220"> | <img src="screen5.png" width="200"> |
+| <img src="screen2.png" width="190"> | <img src="screen3.png" width="200"> | <img src="screen4.png" width="210"> | <img src="screen5.png" width="200"> |
