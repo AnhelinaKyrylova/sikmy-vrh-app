@@ -19,6 +19,6 @@ animáciu a graf.
 
 ## Ukážky aplikácie
 
-| Zadanie parametrov | Numerický výpis | Graf y(t) |
-|---|---|---|
-| ![Vstup](screen2.png) | ![Výpis](screen3.png) | ![Graf](screen4.png),(screen5.png) |
+| Zadanie parametrov | Numerický výpis | Graf y(t) | Animácia |
+|---|---|---|---|
+| ![Vstup](screen2.png) | ![Výpis](screen3.png) | ![Graf](screen4.png) | ![Animácia](screen5.png) |
